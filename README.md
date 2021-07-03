@@ -2,9 +2,9 @@
 
 ##### Hi there, welcome to my profile!👋
 
-[<img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" height= "40" width= "120" />](https://www.linkedin.com/in/gabriel-de-araújo-cabral-2380b6196/)[<img src="https://dmorfo.sites.unifesp.br/images/img/icon_lattes2.png" height="33" width="120" />]((http://lattes.cnpq.br/0007939278872251))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-de-araújo-cabral-2380b6196/)
 
-________________________________________
+____________________________________________________
 
 - :book::computer: Em 2021, cursando o último ano do técnico de informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus Campinas;
 
@@ -12,17 +12,14 @@ ________________________________________
 
 _______________________________________________
 
+#### Estatísticas, Tecnologias e Ferramentas
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Gabriel2712&theme=dark&show_icons=true) 
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" /><img src="  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="  https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
-
-<img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" /><img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" /><img src="https://img.shields.io/badge/React.js-6699CC?style=for-the-badge&logo=react&logoColor=white&link=https://pt-br.reactjs.org" />
-
-</p>
-
-____________________________________________________________
+<img src="  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width = "43"/>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 
