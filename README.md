@@ -6,7 +6,7 @@
 
 ____________________________________________________
 
-- :book::computer: Em 2021, estou cursando o último ano do técnico de informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus Campinas.
+- :book::computer: Em 2021, cursando o último ano do técnico de informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus Campinas.
 
 - 🎯 Possuo interesse na área de desenvolvimento/gestão de software e banco de dados.
 
