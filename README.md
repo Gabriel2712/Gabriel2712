@@ -6,10 +6,6 @@
 
 ____________________________________________________
 
-- :book::computer: Em 2021, cursando o último ano do técnico de informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus Campinas.
-
-_______________________________________________
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Gabriel2712&theme=dark&show_icons=true) 
 
 ____________
